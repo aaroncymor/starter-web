@@ -21,4 +21,7 @@ be on any webserver or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests
+for review
+
 ###Copyright
